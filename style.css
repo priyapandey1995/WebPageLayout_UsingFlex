@@ -1,0 +1,43 @@
+.class{
+    box-shadow:0px 0px 10px grey;
+    width:70%;
+    }
+
+    .divHeader{
+        height:100px;
+        background-color: greenyellow;
+        padding:2%;
+        
+    }
+
+    #Flex-container{
+        display:flex;
+    }
+    
+    .flexarticle{
+        order:2;
+        width:58%;
+        padding:2%;
+        
+
+    }
+    .flexAside{
+        order:3;
+        width:18%;
+        padding:2%;
+        background-color: burlywood;
+
+    }
+    .flexNav{
+        order:1;
+        width:18%;
+        padding:2%;
+        height:250px;
+        background-color: burlywood;
+
+    }
+   .footer{
+       height:100px;
+       background-color: greenyellow;
+       padding:2%;
+   }
